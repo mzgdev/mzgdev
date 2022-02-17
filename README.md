@@ -1,5 +1,14 @@
 ### Hi there, I'm [Manuel Zambrano](https://twitter.com/mzgdev) 👋
 
+<p align = "left">
+
+[<img src ="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-blue"]()
+[<img src ="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-inactive"]()
+[https://img.shields.io/badge/lenguage-English-inactive]()
+[https://img.shields.io/badge/lenguage-English-blue]()
+
+</p> 
+
 I am a Systems Engineer from [Universidad de Los Andes](http://www.ula.ve/index.php), Venezuela. Apart from that I am Web developer and Application developer.
 
 
