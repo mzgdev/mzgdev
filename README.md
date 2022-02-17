@@ -1,4 +1,4 @@
-### Hi there, I'm [Manuel Zambrano](https://twitter.com/manuelzg_dev) 👋
+### Hi there, I'm [Manuel Zambrano](https://twitter.com/mzgdev) 👋
 
 I am a Systems Engineer from [Universidad de Los Andes](http://www.ula.ve/index.php), Venezuela. Apart from that I am Web developer and Application developer.
 
@@ -6,16 +6,17 @@ I am a Systems Engineer from [Universidad de Los Andes](http://www.ula.ve/index.
 - 💻 Currently working on Web Scraping solutions whit Python.
 - 👨🏽‍💻 Currently growing my skillset in [Python]() and [JavaScript]().
 
-**My Reseach Interest**:
-- Web development.
+**My Interest**:
+- Web Development.
 - Web Scraping.
-- Smart Solutions.
+- Smart Solutions whit applications.
 - Similarity Measure
 
  **I am open to**:
 
-- any collobration work.
-- any Collaborative learning.
+- Any collobration work.
+- Independent projects
+- Any Collaborative learning.
 <!--
 **Recent Update**:
 - **October 2021**: A paper is accepted for publication by the Annals of Data Science Journal (Springer).
@@ -27,10 +28,6 @@ I am a Systems Engineer from [Universidad de Los Andes](http://www.ula.ve/index.
 - **August 2021**: A paper accepted at the 10th International Conference on Health Information Science (HIS 2021).
 -->
 
-**Service to research comunity**:
-- PC Member, at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 ([ECML/PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)), Ghent [2020].
-
-## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START 
 - [Generate Machine Learning Code in Few Clicks Using Machine Learning Code Generator](https://medium.com/towards-artificial-intelligence/generate-machine-learning-code-in-few-clicks-using-machine-learning-code-generator-62e4a4f30b23)
 - [20+ Data Science Projects with Code](https://medium.com/@themlphdstudent/20-data-science-projects-with-code-f447ac5b444d)
@@ -41,12 +38,8 @@ I am a Systems Engineer from [Universidad de Los Andes](http://www.ula.ve/index.
 - [More..](https://medium.com/@themlphdstudent)
  BLOG-POST-LIST:END -->
 
-## What I am Reading:
-
-**My Monthly Reading List**
-
-
-**My Weekly Reading List**
+## What I am Reading?:
+-
 
 
 ## Connect with me:
