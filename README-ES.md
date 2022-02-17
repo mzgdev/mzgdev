@@ -1,10 +1,9 @@
 ### Hola, Mi nombre es [Manuel Zambrano](https://twitter.com/mzgdev) 👋  
 
-<p align = "left">
-
-[<img src ="https://img.shields.io/badge/lenguage-English-inactive"/>](https://github.com/mzgdev/mzgdev/blob/main/README.md)
-<img src ="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-blue"/>
-</p>                                     
+<a href="https://github.com/mzgdev/mzgdev/blob/main/README.md">
+    <img src ="https://img.shields.io/badge/lenguage-English-inactive"/>
+</a>   
+    <img src ="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-blue"/>                                   
 
 Ingeniero de Sistemas de La [Universidad de Los Andes](http://www.ula.ve/index.php), Venezuela. También Desarrollador Web y de aplicaciones.
 
