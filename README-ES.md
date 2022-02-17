@@ -2,10 +2,10 @@
 
 <p align = "left">
 
-[<img src ="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-blue"]()
-[<img src ="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-inactive"]()
-[https://img.shields.io/badge/lenguage-English-inactive]()
-[https://img.shields.io/badge/lenguage-English-blue]()
+[<img src ="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-blue"/>](https://github.com/mzgdev/mzgdev/blob/main/README-ES.md)
+<img src ="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-inactive"/>
+[<img src =https://img.shields.io/badge/lenguage-English-inactive/>](https://github.com/mzgdev/mzgdev/blob/main/README.md)
+<img src =https://img.shields.io/badge/lenguage-English-blue/>
 
 </p>                                     
 
