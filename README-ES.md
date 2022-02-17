@@ -2,11 +2,8 @@
 
 <p align = "left">
 
-[<img src ="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-blue"/>](https://github.com/mzgdev/mzgdev/blob/main/README-ES.md)
-<img src ="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-inactive"/>
-[<img src =https://img.shields.io/badge/lenguage-English-inactive/>](https://github.com/mzgdev/mzgdev/blob/main/README.md)
-<img src =https://img.shields.io/badge/lenguage-English-blue/>
-
+[<img src ="https://img.shields.io/badge/lenguage-English-inactive"/>](https://github.com/mzgdev/mzgdev/blob/main/README.md)
+<img src ="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-blue"/>
 </p>                                     
 
 Ingeniero de Sistemas de La [Universidad de Los Andes](http://www.ula.ve/index.php), Venezuela. También Desarrollador Web y de aplicaciones.

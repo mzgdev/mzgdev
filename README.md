@@ -1,12 +1,8 @@
 ### Hi there, I'm [Manuel Zambrano](https://twitter.com/mzgdev) 👋
 
 <p align = "left">
-
-[<img src ="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-blue"/>](https://github.com/mzgdev/mzgdev/blob/main/README-ES.md)
-<img src ="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-inactive"/>
-[<img src =https://img.shields.io/badge/lenguage-English-inactive/>](https://github.com/mzgdev/mzgdev/blob/main/README.md)
-<img src =https://img.shields.io/badge/lenguage-English-blue/>
-
+<img src ="https://img.shields.io/badge/lenguage-English-blue"/>
+[<img src ="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-inactive"/>](https://github.com/mzgdev/mzgdev/blob/main/README-ES.md)
 </p> 
 
 I am a Systems Engineer from [Universidad de Los Andes](http://www.ula.ve/index.php), Venezuela. Apart from that I am Web developer and Application developer.
